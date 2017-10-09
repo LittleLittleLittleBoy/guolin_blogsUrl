@@ -1,3 +1,8 @@
+* 2017-10-09 [探究Glide的自定义模块功能](https://mp.weixin.qq.com/s/Xhu9MoLEPSxfyFIjpLLLkA)
+* 2017-09-29 [基于OkHttp和RxJava封装的Socket长连接开源库](https://mp.weixin.qq.com/s/wsPjuQramPNNHQ11LDckJg)
+* 2017-09-28 [大公司知名开源小组及项目介绍](https://mp.weixin.qq.com/s/E5uSLp6WXwVuL1_uS3RNIA)
+* 2017-09-27 [Android地图轨迹抽稀、动态绘制](https://mp.weixin.qq.com/s/6ZXuxk9gaaMBGrOU10o0hQ)
+* 2017-09-26 [BouncingBallView 碰撞的小球](https://mp.weixin.qq.com/s/NuDjfnWHz_WQTW-RPp3ZYw)
 * 2017-09-22[基于RxJava2+Retrofit2的简单易用网络请求框架](https://mp.weixin.qq.com/s/ZctMJPK53tRlA41ntJIajw)
 * 2017-09-21[Android夜间模式的实现方案](https://mp.weixin.qq.com/s/Mki2bTWCWggmfYLMODGnWA)
 * 2017-09-20[仿海报工厂效果的自定义View](https://mp.weixin.qq.com/s/pkmhOIrKvaHUjsAp84jslQ)
